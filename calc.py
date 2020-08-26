@@ -10,4 +10,4 @@ def subtract(x, y):
 
 def multiply(x, y):
     """ Multiply function"""
-    pass
+    return x * y
